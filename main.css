@@ -22,21 +22,21 @@ div {
 }
 
 #yellow {
-    
+    border-top-color: #E8E426;
 }
 
 #green {
-    
+   border-top-color: #058603; 
 }
 
 #blue {
-    
+    border-top-color: #060ADE;
 }
 
 #indigo {
-    
+    border-top-color: #5105A3;
 }
 
 #violet {
-    
+    border-top-color: #9A399C;
 }
